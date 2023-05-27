@@ -13,7 +13,6 @@ class Solution {
      return result;
   }
  }
-
  /* 
 Example 1:
 
